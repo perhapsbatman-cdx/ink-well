@@ -1,2 +1,3 @@
-# ink-well
-repo for developing the inkwell app
+# Ink Well
+
+Android word processor app.
